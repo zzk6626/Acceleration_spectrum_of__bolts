@@ -1,2 +1,2 @@
 # Acceleration_spectrum_of__bolts
-The file is the acceleration data of four types of typical equipment hanging bolts collected from high-speed trains CRH380A at different operating mileage
+This file is an image of the average acceleration data of four typical equipment suspension bolts collected from the CRH380A high-speed train under different operating mileage
